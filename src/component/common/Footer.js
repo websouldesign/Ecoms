@@ -62,7 +62,7 @@ export default function Footer() {
                     <div class="col-md-12">
                         <div class="f-menu text-center">
                           
-                            <p>Copyright © 2023 <Link to="/" target="_blank">Eikon</Link>  All Right Reserved</p>
+                            <p>Copyright © 2023 <Link to="/" >Eikon</Link>  All Right Reserved</p>
                           
                         </div>
                         <div class="back-to-top text-center">
